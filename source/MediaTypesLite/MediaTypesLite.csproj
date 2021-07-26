@@ -1,5 +1,15 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <PackageId>WhyNot.MediaTypesLite</PackageId>
+    <Authors>Paweł Wanot</Authors>
+    <Product>MediaTypesLite</Product>
+    <Description>Simple library conatining names of all Media Types describe in https://www.iana.org/assignments/media-types/media-types.xhtml</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Copyright>2021</Copyright>
+    <PackageProjectUrl>https://github.com/SideswipeN7/MediaTypesLite</PackageProjectUrl>
+    <PackageTags>MediaType MediaTypes WhyNot MediaTypesLite</PackageTags>
+    <PackageReleaseNotes>Initial release</PackageReleaseNotes>
+    <Company />
   </PropertyGroup>
 </Project>
