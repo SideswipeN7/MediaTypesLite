@@ -4,7 +4,7 @@
     <PackageId>WhyNot.MediaTypesLite</PackageId>
     <Authors>Paweł Wanot</Authors>
     <Product>MediaTypesLite</Product>
-    <Description>Simple library conatining names of all Media Types describe in https://www.iana.org/assignments/media-types/media-types.xhtml</Description>
+    <Description>Simple library containing names of all Media Types describe in https://www.iana.org/assignments/media-types/media-types.xhtml</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Copyright>2021</Copyright>
     <PackageProjectUrl>https://github.com/SideswipeN7/MediaTypesLite</PackageProjectUrl>
