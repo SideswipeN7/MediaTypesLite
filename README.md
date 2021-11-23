@@ -49,3 +49,10 @@ This is how to use this library
 var imgPng = MediaTypesLite.MediaType.Image.Png; // image/png
 var appWord = MediaTypesLite.MediaType.Application.Msword; // application/msword
 ```
+or simply add `using`
+```cs
+using MediaTypesLite.MediaType;
+
+var imgPng = Image.Png; // image/png
+var appWord = Application.Msword; // application/msword
+```
