@@ -42,6 +42,8 @@ It is two-part identifier for file formats and format contents transmitted <a hr
 ## Getting Started
 
 <a href="https://www.nuget.org/packages/WhyNot.MediaTypesLite"><strong>NuGet package</strong></a>
+<br />
+
 This is how to use this library
 ```cs
 var imgPng = MediaTypesLite.MediaType.Image.Png; // image/png
